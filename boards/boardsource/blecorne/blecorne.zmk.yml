@@ -1,7 +1,7 @@
 file_format: "1"
 id: blecorne
-name: BLECORNE
-url:
+name: BLE Corne
+url: https://boardsource.xyz
 type: board
 arch: arm
 features:
@@ -11,6 +11,8 @@ features:
 outputs:
   - usb
   - ble
+revisions:
+  - 1.0.0
 siblings:
-  - bnicorne_left
-  - bnicorne_right
+  - blecorne_left
+  - blecorne_right

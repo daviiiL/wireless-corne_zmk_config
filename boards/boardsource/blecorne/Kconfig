@@ -3,8 +3,8 @@
 # SPDX-License-Identifier: MIT
 #
 
-config BOARD_BNICORNE_LEFT
+config BOARD_BLECORNE_LEFT
     bool
 
-config BOARD_BNICORNE_RIGHT
+config BOARD_BLECORNE_RIGHT
     bool
