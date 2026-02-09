@@ -6,3 +6,7 @@ include:
     shield: nice_view
   - board: blecorne_right
     shield: nice_view
+  - board: blecorne_left
+    snippet: settings_reset
+  - board: blecorne_right
+    snippet: settings_reset
